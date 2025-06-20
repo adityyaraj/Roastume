@@ -14,7 +14,7 @@ export async function POST(req: Request) {
       Keep the roast medium sized so an average person dont spend more than  
       minute reading it , keep the roast level very high , 
       roast as mush as possible for you and stick your context 
-      to the resume content only. And that also in hinglish hindi+english use words like doglapang`;
+      to the resume content only. And that also in hinglish hindi+english use words like doglapang(the meaning of doglaban is showing two face behaviour) and other words like that.`;
 
     const prompt = resume
       ? `${roastPrompt}\n\nResume:\n${resume}\n\nThe user says:\n${message}`

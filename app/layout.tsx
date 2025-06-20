@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "@/components/theme-provider"
 import "./globals.css";
-import Navbar from "@/components/navbar";
 import { Pointer } from "@/components/magicui/pointer";
 
 export const metadata: Metadata = {

@@ -1,6 +1,6 @@
-# 🔥 Roastum-
+# 🔥 Roastumé
 
-Roastum- is your brutally honest AI résumé reviewer. Upload your résumé, get real-time feedback, and chat with an AI that tells you what hiring managers *really* think — no sugarcoating. Built with Next.js, Tailwind CSS, and powered by Google's Gemini API.
+Roastumé is your brutally honest AI résumé reviewer. Upload your résumé, get real-time feedback, and chat with an AI that tells you what hiring managers *really* think — no sugarcoating. Built with Next.js, Tailwind CSS, and powered by Google's Gemini API.
 
 ---
 

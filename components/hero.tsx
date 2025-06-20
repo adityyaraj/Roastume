@@ -63,7 +63,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="grid w-full gap-3 max-w-4xl mx-auto pt-4 px-4 md:px-1">
+    <div className="grid w-full gap-3 max-w-4xl mx-auto pt-4 px-4 md:px-1 py-8">
       <div className="flex justify-center items-center mb-4 flex-col">
       <h1 className="text-5xl font-bold text-purple-400 text-center">
         Roastumé

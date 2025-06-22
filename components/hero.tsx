@@ -79,7 +79,7 @@ const Hero = () => {
         {messages.map((msg, i) => (
           <div
             key={i}
-            className={`p-3 rounded-lg max-w-[40%] text-md ${
+            className={`p-3 rounded-lg max-w-[50%] text-md ${
               msg.role === "user"
                 ? "bg-purple-600 text-white self-end ml-auto"
                 : "bg-white text-black self-start"

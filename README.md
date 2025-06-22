@@ -30,8 +30,8 @@ Roastumé is your brutally honest AI résumé reviewer. Upload your résumé, ge
 First, clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/roastum.git
-cd roastum
+git clone https://github.com/yourusername/roastume.git
+cd roastume
 
 # Install dependencies
 npm install
